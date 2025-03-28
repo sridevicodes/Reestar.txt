@@ -1,0 +1,63 @@
+.section-one{
+  background-color: rgb(234, 84, 29);
+  color:white;
+  text-align: center;
+  margin:20px;
+  padding:5px;
+  border: solid 3px black;
+}
+
+.section-two{
+  margin:10px;
+  text-align: center;
+}
+
+.section-two__imgone,.section-two__imgtwo,.section-two__imgthree,.section-two__imgfour,.section-two__imgfive{
+  height:350px;
+  width: 200px;
+  display:inline-block;
+  padding: 2px;
+  vertical-align: top;
+  border: solid 1px red;
+  background-color: black;
+  color:rgb(234, 84, 29) ;
+}
+.section-two__img{
+  height:180px;
+  width: 200px;
+}
+
+.section-two__buttn{
+  background-color: black;
+  color:rgb(234, 84, 29);
+  padding:6px;
+  border:none;
+  border:1px solid rgb(234, 84, 29);
+  font-size: bold;
+}
+.section-three{
+  background-color: rgb(234, 84, 29);
+  color: white;
+  margin: 20px;
+  padding: 30px;
+  text-align: center;
+  border:solid 3px black;
+}
+.section-three__table{
+  text-align: center;
+  display: inline-block;
+  
+}
+.section-three__buttn{
+  background-color:rgb(234, 84, 29);;
+  color: white;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 5px;
+  padding-bottom:5px;
+  border:none;
+  border: solid white 3px;
+}
+
+
+
